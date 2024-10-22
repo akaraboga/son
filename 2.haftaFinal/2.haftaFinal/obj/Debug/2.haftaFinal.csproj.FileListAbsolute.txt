@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\obj\Debug\2.haftaFinal.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\obj\Debug\2.haftaFinal.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\bin\Debug\2.haftaFinal.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\bin\Debug\2.haftaFinal.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\bin\Debug\2.haftaFinal.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\obj\Debug\2.haftaFinal.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\2.haftaFinal\obj\Debug\2.haftaFinal.pdb

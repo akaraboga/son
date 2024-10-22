@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\bin\Debug\soru13.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\bin\Debug\soru13.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\bin\Debug\soru13.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\obj\Debug\soru13.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\obj\Debug\soru13.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\obj\Debug\soru13.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\soru13\obj\Debug\soru13.pdb

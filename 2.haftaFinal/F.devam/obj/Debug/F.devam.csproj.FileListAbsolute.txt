@@ -1,0 +1,7 @@
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\bin\Debug\F.devam.exe.config
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\bin\Debug\F.devam.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\bin\Debug\F.devam.pdb
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\obj\Debug\F.devam.csproj.AssemblyReference.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\obj\Debug\F.devam.csproj.CoreCompileInputs.cache
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\obj\Debug\F.devam.exe
+C:\Users\karab\OneDrive\Masaüstü\Patika pratik\2.haftaFinal\F.devam\obj\Debug\F.devam.pdb
